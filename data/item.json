@@ -1,0 +1,23 @@
+[
+  {
+    "title": "tite 3",
+    "createdAt": "2024-10-17T03:32:23.641Z",
+    "updatedAt": "2024-10-17T06:28:28.288Z",
+    "quantity": "quantity updated",
+    "unitprice": "price updated"
+  },
+  {
+    "title": "tite 4",
+    "quantity": "quantity is now 5",
+    "unitprice": "price has now increased",
+    "createdAt": "2024-10-17T03:33:40.124Z",
+    "updatedAt": "2024-10-17T07:11:42.107Z"
+  },
+  {
+    "title": "moses",
+    "quantity": "quantity as of today",
+    "unitprice": "price as of today",
+    "createdAt": "2024-10-22T05:40:29.397Z",
+    "updatedAt": "2024-10-22T05:40:29.397Z"
+  }
+]
